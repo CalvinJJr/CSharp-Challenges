@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\bin\Debug\net8.0\Boolean.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\bin\Debug\net8.0\Boolean.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\bin\Debug\net8.0\Boolean.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\bin\Debug\net8.0\Boolean.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\bin\Debug\net8.0\Boolean.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\refint\Boolean.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\Boolean.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Boolean\obj\Debug\net8.0\ref\Boolean.dll
