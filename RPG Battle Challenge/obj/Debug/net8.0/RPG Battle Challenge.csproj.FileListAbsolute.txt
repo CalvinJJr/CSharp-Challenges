@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\refint\RPG Battle Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\RPG Battle Challenge\obj\Debug\net8.0\ref\RPG Battle Challenge.dll
