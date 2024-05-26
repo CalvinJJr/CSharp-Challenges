@@ -1,0 +1,28 @@
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\NewProgram\Arrays\obj\Debug\net8.0\ref\Arrays.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Arrays\obj\Debug\net8.0\ref\Arrays.dll
