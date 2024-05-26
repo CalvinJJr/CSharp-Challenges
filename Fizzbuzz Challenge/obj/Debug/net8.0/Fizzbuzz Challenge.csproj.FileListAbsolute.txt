@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\bin\Debug\net8.0\Fizzbuzz Challenge.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\bin\Debug\net8.0\Fizzbuzz Challenge.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\bin\Debug\net8.0\Fizzbuzz Challenge.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\bin\Debug\net8.0\Fizzbuzz Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\bin\Debug\net8.0\Fizzbuzz Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\refint\Fizzbuzz Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\Fizzbuzz Challenge.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Fizzbuzz Challenge\obj\Debug\net8.0\ref\Fizzbuzz Challenge.dll
