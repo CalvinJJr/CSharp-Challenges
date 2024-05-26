@@ -1,0 +1,28 @@
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.exe
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.deps.json
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.pdb
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\refint\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.pdb
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\NewProgram\If-Else_Practice\obj\Debug\net8.0\ref\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\bin\Debug\net8.0\If-Else_Practice.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\refint\If-Else_Practice.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\If-Else_Practice.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\If-Else_Practice\obj\Debug\net8.0\ref\If-Else_Practice.dll
