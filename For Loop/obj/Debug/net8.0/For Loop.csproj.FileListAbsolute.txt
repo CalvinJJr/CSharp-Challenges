@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\bin\Debug\net8.0\For Loop.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\bin\Debug\net8.0\For Loop.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\bin\Debug\net8.0\For Loop.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\bin\Debug\net8.0\For Loop.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\bin\Debug\net8.0\For Loop.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\refint\For Loop.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\For Loop.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\For Loop\obj\Debug\net8.0\ref\For Loop.dll
