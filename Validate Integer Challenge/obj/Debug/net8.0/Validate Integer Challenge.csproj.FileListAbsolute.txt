@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\bin\Debug\net8.0\Validate Integer Challenge.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\bin\Debug\net8.0\Validate Integer Challenge.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\bin\Debug\net8.0\Validate Integer Challenge.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\bin\Debug\net8.0\Validate Integer Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\bin\Debug\net8.0\Validate Integer Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\refint\Validate Integer Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\Validate Integer Challenge.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Validate Integer Challenge\obj\Debug\net8.0\ref\Validate Integer Challenge.dll
