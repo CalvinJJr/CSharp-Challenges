@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
