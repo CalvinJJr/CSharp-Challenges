@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\bin\Debug\net8.0\Data Type Conversion.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\bin\Debug\net8.0\Data Type Conversion.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\bin\Debug\net8.0\Data Type Conversion.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\bin\Debug\net8.0\Data Type Conversion.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\bin\Debug\net8.0\Data Type Conversion.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\refint\Data Type Conversion.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\Data Type Conversion.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Data Type Conversion\obj\Debug\net8.0\ref\Data Type Conversion.dll
