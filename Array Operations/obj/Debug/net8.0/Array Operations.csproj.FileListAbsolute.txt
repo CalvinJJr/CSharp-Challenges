@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\bin\Debug\net8.0\Array Operations.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\bin\Debug\net8.0\Array Operations.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\bin\Debug\net8.0\Array Operations.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\bin\Debug\net8.0\Array Operations.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\bin\Debug\net8.0\Array Operations.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\refint\Array Operations.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\Array Operations.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\Array Operations\obj\Debug\net8.0\ref\Array Operations.dll
