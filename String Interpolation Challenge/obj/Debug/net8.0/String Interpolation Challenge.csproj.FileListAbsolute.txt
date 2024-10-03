@@ -1,0 +1,14 @@
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.AssemblyInfoInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.AssemblyInfo.cs
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.csproj.CoreCompileInputs.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.exe
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.deps.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.runtimeconfig.json
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\refint\String Interpolation Challenge.dll
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.pdb
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.genruntimeconfig.cache
+E:\Coding\C# Projects\C# Practice\MS & FreeCodeCamp\String Interpolation Challenge\obj\Debug\net8.0\ref\String Interpolation Challenge.dll
